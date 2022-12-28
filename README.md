@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @williamQuimbay
-- 👀 web programming
+- 👀 I'm interested in the web programming
 - 🌱 I am currently learning javascript, html, css
 - 📫contact me at quimbayfeo@gmail.com
 
